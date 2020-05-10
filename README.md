@@ -9,3 +9,5 @@ You can find three simple, but useful programs:
 - [server.py](https://github.com/mezgoodle/5-min-python/blob/master/server.py). Only four lines of code and you have live server on Python.
 
 - [selenium.py](https://github.com/mezgoodle/5-min-python/blob/master/selenium.py). You can open link in internet and read all information from webpage.
+
+> All libraries that are needed to be installed are in [`requirements.txt`](https://github.com/mezgoodle/5-min-python/blob/master/requirements.txt)
